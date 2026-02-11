@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-vemba an editing tool<br>open source projects
+an aspiring engineer<br>would love to contribute to open source projects <br> ML AI
 
 
 # 💻 Tech Stack:
